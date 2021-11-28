@@ -1,2 +1,2 @@
-# RestoranSite
-Restoran Site using HTML, CSS, JS
+# Restaurant Site
+Restaurant site using HTML, CSS, JS
